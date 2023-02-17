@@ -1,0 +1,12 @@
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\bin\Release\net5.0\ElasticSearchApp.Data.deps.json
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\bin\Release\net5.0\ElasticSearchApp.Data.dll
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\bin\Release\net5.0\ref\ElasticSearchApp.Data.dll
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\bin\Release\net5.0\ElasticSearchApp.Data.pdb
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\obj\Release\net5.0\ElasticSearchApp.Data.csproj.AssemblyReference.cache
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\obj\Release\net5.0\ElasticSearchApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\obj\Release\net5.0\ElasticSearchApp.Data.AssemblyInfoInputs.cache
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\obj\Release\net5.0\ElasticSearchApp.Data.AssemblyInfo.cs
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\obj\Release\net5.0\ElasticSearchApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\obj\Release\net5.0\ElasticSearchApp.Data.dll
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\obj\Release\net5.0\ref\ElasticSearchApp.Data.dll
+C:\Users\secil.coban\source\repos\ElasticSearchApp\ElasticSearchApp.Data\obj\Release\net5.0\ElasticSearchApp.Data.pdb

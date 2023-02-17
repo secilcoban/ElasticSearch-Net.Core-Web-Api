@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\secil.coban\Desktop\SearchApiPublish</_PublishTargetUrl>
+    <History>True|2022-07-01T13:43:02.2215000Z;True|2022-06-28T15:24:36.2674072+03:00;True|2022-06-28T09:59:01.7463948+03:00;True|2022-06-24T16:27:10.6394662+03:00;True|2022-06-17T08:20:00.5085937+03:00;</History>
+  </PropertyGroup>
+</Project>
