@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = ElasticSearchApp.Data
-build_property.ProjectDir = C:\Users\secil.coban\Source\Repos\ElasticSearch-Net.Core-Web-Api\ElasticSearchApp.Data\
+build_property.ProjectDir = C:\Users\secil.coban\source\repos\ElasticSearch-Net.Core-Web-Api\ElasticSearchApp.Data\
