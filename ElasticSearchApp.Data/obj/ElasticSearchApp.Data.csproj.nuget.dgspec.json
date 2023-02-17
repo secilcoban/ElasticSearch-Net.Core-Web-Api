@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\secil.coban\\source\\repos\\ElasticSearchApp\\ElasticSearchApp.Data\\ElasticSearchApp.Data.csproj": {}
+    "C:\\Users\\secil.coban\\Source\\Repos\\ElasticSearch-Net.Core-Web-Api\\ElasticSearchApp.Data\\ElasticSearchApp.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\secil.coban\\source\\repos\\ElasticSearchApp\\ElasticSearchApp.Data\\ElasticSearchApp.Data.csproj": {
+    "C:\\Users\\secil.coban\\Source\\Repos\\ElasticSearch-Net.Core-Web-Api\\ElasticSearchApp.Data\\ElasticSearchApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\secil.coban\\source\\repos\\ElasticSearchApp\\ElasticSearchApp.Data\\ElasticSearchApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\secil.coban\\Source\\Repos\\ElasticSearch-Net.Core-Web-Api\\ElasticSearchApp.Data\\ElasticSearchApp.Data.csproj",
         "projectName": "ElasticSearchApp.Data",
-        "projectPath": "C:\\Users\\secil.coban\\source\\repos\\ElasticSearchApp\\ElasticSearchApp.Data\\ElasticSearchApp.Data.csproj",
+        "projectPath": "C:\\Users\\secil.coban\\Source\\Repos\\ElasticSearch-Net.Core-Web-Api\\ElasticSearchApp.Data\\ElasticSearchApp.Data.csproj",
         "packagesPath": "C:\\Users\\secil.coban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\secil.coban\\source\\repos\\ElasticSearchApp\\ElasticSearchApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\secil.coban\\Source\\Repos\\ElasticSearch-Net.Core-Web-Api\\ElasticSearchApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
